@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Student<br>I'm looking help with Money Fr<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>
+I'm a Student<br>I need help with Money Fr<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>
 
 
 ## 🌐 Socials:
