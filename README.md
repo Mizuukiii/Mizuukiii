@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a Student<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>
+![image](https://github.com/Mizuukiii/Mizuukiii/assets/95535899/230639de-3e64-41f3-8bfc-8fa0b360c105)![image](https://github.com/Mizuukiii/Mizuukiii/assets/95535899/4b423c89-22fb-4a2f-888a-766ff0f649f6)# 💫 About Me:
+I'm a Student<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>INTP-T<br>
 
 
 ## 🌐 Socials:
