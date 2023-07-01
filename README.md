@@ -1,5 +1,5 @@
 💫 About Me:
-I'm a Student<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>INTP-T<br>
+<br>I'm a Student<br>I'm currently learning Lua<br>Ambivert<br>Shy<br>INTP-T<br>
 
 
 ## 🌐 Socials:
