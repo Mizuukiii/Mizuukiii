@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Student<br>🤝 I’m looking for help with Finance<br>🌱 I’m currently learning Python<br>⚡ Fun fact <br>I am INTP-T<br>
+🔭 I’m currently a Student<br>🤝 I want Money<br>🌱 I’m currently learning Python<br>⚡ Fun fact <br>I am INTP-T<br>
 
 
 ## 🌐 Socials:
