@@ -5,13 +5,18 @@
 
 - 🔭 I’m currently working on [on my first website](https://mizuukiii.github.io/Website/)
 
+- 🤝 I Need **Money**
+
 - 🌱 I’m currently learning **Java Script, Css, and HTML5**
 
-- ⚡ Fun fact **real**
+- 💬 Ask me about **Anything**
+
+- ⚡ Fun fact **I am an INTP-T**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/100070222369641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100070222369641" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mizuki6360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mizuki6360" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
