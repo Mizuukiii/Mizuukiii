@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mizuki</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A Student whose very passionate about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizuukiii&label=Profile%20views&color=0e75b6&style=flat" alt="mizuukiii" /> </p>
 
@@ -13,16 +13,16 @@
 
 - ⚡ Fun fact **I am an INTP-T**
 
-# My Hobbies
+# My Hobbies are
 - Gaming
 - Online Learning
 - Music
 - Television
 - Cooking
-- Taking Notes
 - Multi Media
 - Learn Coding
 - Trying New Things
+- Learning New Things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
